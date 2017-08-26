@@ -1,0 +1,103 @@
+body{
+	background-color: #fff2e6;
+	margin: 25px;
+}
+
+h1{
+	text-align: center;
+
+}
+
+h2{
+	text-align: center;
+
+}
+h4{
+}
+
+.content{
+	max-width: 900px;
+}
+
+.food-pic{
+
+}
+
+
+.things{
+	padding-left: 50px;
+}
+
+li{
+	padding-left: 50px;
+}
+
+.link{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.links{
+	list-style-type: none;
+}
+
+.top-line{
+	height: 5px;
+	background-color: black;
+
+}
+.main-paragraph{
+}
+
+#about_me_border {
+	border-top: solid black 1px;
+	margin: auto;
+	width: 80%;
+}
+
+#about_me_border_bottom {
+	border-bottom: solid black 1px;
+	margin: auto;
+	width: 60%;
+	overflow: auto;
+	
+
+}
+
+.main-paragraph{
+}
+
+.about_me {
+	border-width: 90%;
+	overflow: auto;
+	padding: 20px;
+
+
+}
+img{
+	float: right;
+	margin-left: 10px;
+	border: solid 1px;
+	padding: 5px;
+
+
+}
+
+.break{
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+	border-bottom-color: orange;
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 500px) {
+	img{
+		width: 100%;
+	}
+	p{
+		font-size: 24px;
+	}
+}
